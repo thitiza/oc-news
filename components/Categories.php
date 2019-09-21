@@ -2,7 +2,8 @@
 
 use Cms\Classes\ComponentBase;
 use Cms\Classes\Page;
-use Indikator\News\Models\Categories as NewsCategories;
+use Indikator\News\Models\NewsCategories;
+use Indikator\News\Models\Subscribers;
 use Lang;
 
 class Categories extends ComponentBase

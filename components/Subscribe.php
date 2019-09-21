@@ -3,7 +3,6 @@
 use Cms\Classes\ComponentBase;
 use Indikator\News\Classes\SubscriberService;
 use Indikator\News\Models\Categories;
-use Indikator\News\Models\Subscribers;
 use Lang;
 use App;
 use Validator;

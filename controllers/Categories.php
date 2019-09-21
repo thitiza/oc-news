@@ -3,7 +3,6 @@
 use Backend\Classes\Controller;
 use BackendMenu;
 use Indikator\News\Models\Categories as Item;
-use Indikator\News\Models\Posts;
 use Db;
 use Flash;
 use Lang;
